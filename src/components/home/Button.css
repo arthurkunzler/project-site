@@ -1,0 +1,6 @@
+.link-btn {
+  /* border: solid 1px #93c0fb; */
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.12);
+  height: 50px;
+  font-size: 1.3rem;
+}

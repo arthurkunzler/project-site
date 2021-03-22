@@ -1,0 +1,20 @@
+.card-img {
+  width: 50%;
+}
+
+.home-card-body {
+  font-size: 1.3rem;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: lightgray;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.12);
+}
+
+.home-card-body a {
+  color: #fff;
+}
+
+.home-card-body a:hover {
+  font-size: 1.2rem;
+  font-weight: bolder;
+}

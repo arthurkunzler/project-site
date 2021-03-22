@@ -1,0 +1,19 @@
+:root {
+  --header-height: 11vh;
+  --footer-height: 13vh;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  /* position: relative; */
+  /* overflow: hidden; */
+}
+
+body {
+  overflow: auto;
+}
+.app {
+  height: 100%;
+  background: linear-gradient(to right, rgb(75, 108, 183), rgb(24, 40, 72));
+}

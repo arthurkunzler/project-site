@@ -1,0 +1,15 @@
+.accordion {
+  width: 100%;
+  margin: 10px;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #3e5a92;
+  height: fit-content;
+}
+
+.card-body {
+  background-color: #cddff6;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #3e5a92;
+}
