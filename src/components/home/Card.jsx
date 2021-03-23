@@ -16,7 +16,7 @@ export default function renderCard (props){
                 <hr/>
                 <div className="links d-flex flex-column ">
                     <a href="mailto:natafitness.adm@gmail.com" className="card-link">
-                        <i class="fa fa-2x fa-envelope-square"></i> Envie um email</a>
+                        <i className="fa fa-2x fa-envelope-square"></i> Envie um email</a>
                     <a href="https://www.facebook.com/Natafitness/" className="card-link mx-0 mt-1">
                         <i className="fa fa-2x fa-facebook-square"></i> Curta nossa página no Facebook
                     </a>

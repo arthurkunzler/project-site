@@ -14,7 +14,7 @@ export default props =>
                 <div className="buttons d-flex justify-content-around">
                     <Button label="Modalidades" src="/modalidades"/>
                     <Button label="Fotos" src="/modalidades"/>
-                    <Button label="Horários" src="/horario-piscina"/>
+                    <Button label="Horários" src="/horarios"/>
                 </div>
                 <div className="cards d-flex justify-content-around align-items-center m-3">
                     <Card type="img" src={imgCard} alt="Certificado"/>

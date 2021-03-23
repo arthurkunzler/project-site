@@ -6,22 +6,25 @@ import Logo from './Logo'
 
 export default props =>
     <nav className="menu navbar navbar-dark d-flex justify-content-center">
-        <a className="navbar-brand" href="/">
+        <Link className="navbar-brand" to="/">
             <Logo />
-        </a>
-        <a className="nav-item nav-link active p-3" href="/" >
+        </Link>
+        <Link className="nav-item nav-link active p-3" to="/" >
             Início
-        </a>
-        <a className="nav-item nav-link" href="/modalidades" >
+        </Link>
+        <Link className="nav-item nav-link" to="/modalidades" >
             Modalidades
-        </a>
-        <a className="nav-item nav-link" href="/horario-ginastica" >
+        </Link>
+        <Link className="nav-item nav-link" to="/horarios" >
+            Horários
+        </Link>
+        {/* <Link className="nav-item nav-link" to="/horario-ginastica" >
             Horário Ginástica
-        </a>
-        <a className="nav-item nav-link" href="/horario-piscina" >
+        </Link>
+        <Link className="nav-item nav-link" to="/horario-piscina" >
             Horário Piscina
-        </a>
-        <a className="nav-item nav-link" href="/contato" >
+        </Link> */}
+        <Link className="nav-item nav-link" to="/contato" >
             Contato
-        </a>
+        </Link>
     </nav>
