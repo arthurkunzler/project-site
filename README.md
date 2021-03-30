@@ -1,5 +1,7 @@
 # Projeto Pessoal 
-Desenvolvido por Arthur Kunzler @mar,2021.
+Desenvolvido por Arthur Kunzler @mar2021.
+Este projeto usou como base o site natafitness.com como tentativa de superar sua atual interface.
+Declaro que para fins legais este não é o site oficial da empresa.
 
 # Getting Started with Create React App
 
